@@ -4,7 +4,9 @@ Liste des idées/projets/bugfix/features/contributions open-source que je veux f
 
 ## Contributions
 
-* Fixer le deprecation warnig lancé par Rspec sur un matcher de CarrierWave
+* Avancer les features du nouveau site de Montreal.rb
+* Avancer jpdeziel.com
+* Vérifier le deprecation warnig lancé par Rspec sur un matcher de CarrierWave
 * Vérifier comment fonctionne réellement le filename de CarrierWave parce qu'il semble y avoir des bugs quand on utilise DateTime dans le nom d'un fichier
  
 ## Blog
