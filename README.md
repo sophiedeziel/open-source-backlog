@@ -20,3 +20,4 @@ Liste des idées/projets/bugfix/features/contributions open-source que je veux f
 * Bkr: un framework pour créer des livres interactifs en ePub3
 * Nerdz.rocks : Un CMS de base en Ruby on Rails
 * ICanHasCode: dream-project à long terme, qui a pour but de fournir une plateforme pour du virtual pair programming en groupe.
+* gem pour gérer, loader et documenter les variables d'environement requises pour un projet
