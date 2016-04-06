@@ -21,3 +21,5 @@ Liste des idées/projets/bugfix/features/contributions open-source que je veux f
 * Nerdz.rocks : Un CMS de base en Ruby on Rails
 * ICanHasCode: dream-project à long terme, qui a pour but de fournir une plateforme pour du virtual pair programming en groupe.
 * gem pour gérer, loader et documenter les variables d'environement requises pour un projet
+* Matcher pour Rspec pour checker le "scope" des requetes ActiveRecord (`includes`, `order`, etc)
+* Réécrire le gem de yellow pages
