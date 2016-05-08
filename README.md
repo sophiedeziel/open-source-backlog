@@ -11,6 +11,8 @@ Liste des idées/projets/bugfix/features/contributions open-source que je veux f
  
 ## Blog
 
+* Mix de selectize et d'un fuzzy matcher
+* Optimisations de cucumber
 * Faire un blogpost sur l'utilisation du gem Shortcode dans un projet Ruby on Rails
 * Continuer le ABC sur Medium
 
@@ -23,3 +25,4 @@ Liste des idées/projets/bugfix/features/contributions open-source que je veux f
 * gem pour gérer, loader et documenter les variables d'environement requises pour un projet
 * Matcher pour Rspec pour checker le "scope" des requetes ActiveRecord (`includes`, `order`, etc)
 * Réécrire le gem de yellow pages
+* Dear Future Self: site pour s'envoyer des emails dans le futur
